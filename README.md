@@ -18,12 +18,12 @@ Goals:
 * Auto indentation
 * Refactoring ( No idea when this would happen )
 
-
 How can I help?
 
 * You are more than welcome to let your friends who love Ruby know about this product.
 * At any moment, you can submit requests if you want a new feature.
 * Submit fixes, patches or anything! We'd love any help.
+* Patches submitted should be done in Java, FXML, JavaScript or JRuby, we will consider using a 
 
 This program uses RichTextFX, a JavaFX library that makes the code editor functionality so much easier to make. 
 If you're interested in that library here is the link:
