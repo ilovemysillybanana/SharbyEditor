@@ -17,7 +17,7 @@ import javafx.scene.layout.GridPane;
 
 public class EditorController implements Initializable {
 	@FXML
-	private GridPane gridPane;
+	private GridPane gridPane; 
 	@FXML
 	private TabPane tabPaneCode;
 	// tree file viewer to be implemented
