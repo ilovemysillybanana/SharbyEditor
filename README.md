@@ -10,7 +10,9 @@ This program is a continuation of RubyCodeEditor, and thus uses multiple bits of
 This is uploaded as an Eclipse Project to facilitate importing and exporting for other users using Eclipse or Intellij.
 
 Goals:
-
+* Syntax High Lighting
+* Actual Ruby Code Support ^ at the moment it's just 
+* Extensibility through CSS/.config/JSON files
 * Code Completion
 * Auto Importation of files(Similar to eclipse)
 * Auto indentation
