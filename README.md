@@ -24,6 +24,8 @@ How can I help?
 * At any moment, you can submit requests if you want a new feature.
 * Submit fixes, patches or anything! We'd love any help.
 * Patches submitted should be done in Java, FXML, JavaScript or JRuby, we will consider using a different langauge patch so long as the code is flawlessly integrated but will put in effort to replace such code with something more preferable.
+* Go through and fix any of our many issues
+* Submit a new issue
 
 This program uses RichTextFX, a JavaFX library that makes the code editor functionality so much easier to make. 
 If you're interested in that library here is the link:
