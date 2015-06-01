@@ -3,6 +3,8 @@
 .settings
 .classpath
 .metadata
+
+#these are some files I'm working on and testing somethings on and won't commit but will integrates parts of into the final patch when I submit
 Editor.fxml
 FileFinder.java
 
